@@ -1,0 +1,1 @@
+# Modulo GUI di MBM-LITE.

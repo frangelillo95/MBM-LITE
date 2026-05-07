@@ -1,0 +1,34 @@
+MBM-LITE 2.0.4
+Release date: 2026-05-06
+
+FIXES & IMPROVEMENTS
+
+- Added robust runtime ERROR handling for incremental backups.
+- Added robust runtime ERROR handling for forced/manual backups.
+- Added partial-failure detection with:
+  [Backup Completed With Errors]
+
+- Added persistent runtime error state in UI.
+- Fixed READY/RUNNING/ERROR state transitions.
+- Improved retry handling during copy operations.
+- Added cooperative Pause/Resume behavior:
+  backup pauses between files, never during file copy.
+
+- Disabled Remove button while job status is RUNNING.
+- Improved consistency between manual and scheduled backups.
+- Improved progress/state synchronization.
+
+TESTED
+
+- Normal backup
+- Locked destination
+- Permission denied
+- Pause/Resume
+- Scheduler
+- Multi-job execution
+- Runtime error recovery
+- Persistent state reload
+
+STATUS
+
+Stable release candidate for 2.0.4
