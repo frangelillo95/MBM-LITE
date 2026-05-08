@@ -31,4 +31,4 @@ TESTED
 
 STATUS
 
-Stable release candidate for 2.0.4
+Stable release 2.0.4
