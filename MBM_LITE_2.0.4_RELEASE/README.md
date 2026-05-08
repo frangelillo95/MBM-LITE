@@ -28,13 +28,6 @@ Lightweight incremental backup manager for Windows.
 
 
 
-\## Screenshots
-
-
-
-(immagini)
-
-
 
 \## Installation
 
