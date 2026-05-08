@@ -23,12 +23,6 @@ Lightweight incremental backup manager for Windows with direct file synchronizat
 
 ---
 
-## Screenshots
-
-_Add screenshots here_
-
----
-
 ## Installation
 
 Download the latest installer from the Releases section.
@@ -70,6 +64,8 @@ build_exe.bat
 ## Project Status
 
 Stable release: **v2.0.4**
+
+2026-05-06 17:28
 
 ---
 
